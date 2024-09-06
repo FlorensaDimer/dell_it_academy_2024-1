@@ -7,7 +7,7 @@ Um sistema para gerenciar pontuações de um campeonato. Programado em Python 3.
 
 Instalação
 
-    Passos para instalar o projeto:
+    Passos para instalar o programa:
 
     1. Instale as dependências:
 
