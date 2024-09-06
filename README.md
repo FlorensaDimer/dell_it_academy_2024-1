@@ -1,7 +1,7 @@
 # dell_it_academy_2024-1
 Código desenvolvido para a solução do exercício técnico chamado "BALLIT CHAMPIONSHIP Campeonato de um jogo esquisito". Este desafio fez parte do processo seletivo de novos estagiários para o programa IT Academy de 2024/1, da empresa Dell em parceria com a PUCRS.
 
-#### Programa BALLIT CHAMPIONSHIP
+### Programa BALLIT CHAMPIONSHIP
 
 Um sistema para gerenciar pontuações de um campeonato. Programado em Python 3.12.2 64-bit. Orientado a objetos.
 
