@@ -15,9 +15,9 @@ Instalação
 
 Uso
 
-    Instruções de como utilizar o projeto:
+    Instruções de como utilizar o programa:
 
-        1. Execute a classe main.py para usar o programa.
+        1. Execute a classe main.py para iniciar.
 
             É possível usar o código para administrar uma competição com 8 a 16 times, onde cada partida aleatória entre dois times é iniciada com 50 pontos.
             O cadastramento dos times permite adicionar e deletar quantos times quiser. Entretanto, o campeonato só iniciará com 8, 10, 12, 14 ou 16 times cadastrados.
