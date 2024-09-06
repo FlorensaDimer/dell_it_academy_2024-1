@@ -19,11 +19,6 @@ Uso
 
         1. Execute a classe main.py para iniciar.
 
-            É possível usar o código para administrar uma competição com 8 a 16 times, onde cada partida aleatória entre dois times é iniciada com 50 pontos.
-            O cadastramento dos times permite adicionar e deletar quantos times quiser. Entretanto, o campeonato só iniciará com 8, 10, 12, 14 ou 16 times cadastrados.
-            É possível administrar a partida com as funções de pontuação. 
-            Ao final do campeonato o programa apresenta o vencedor e tabela de pontos ordenada pelo total de pontuação.
-
         2. Navegue nos menus preenchendo conforme solicitado a cada passo:
 
             Primeiro menu: Menu de opções para o usuário. Responda com um número inteiro listado.
