@@ -3,7 +3,7 @@ Código desenvolvido para a solução do exercício técnico chamado "BALLIT CHA
 
 ### Programa BALLIT CHAMPIONSHIP
 
-Um sistema para gerenciar pontuações de um campeonato. Programado em Python 3.12.2 64-bit. Orientado a objetos.
+Um sistema para gerenciar pontuações de um campeonato. Programado em Python 3.12.2 64-bit. Orientado a objetos. É possível usar o programa para administrar uma competição com 8 a 16 times, onde cada partida é aleatória entre dois times aleatórios é iniciada com 50 pontos. O cadastramento dos times permite adicionar e deletar quantos times quiser. Entretanto, o campeonato só iniciará com 8, 10, 12, 14 ou 16 times cadastrados. É possível administrar a partida com as funções de pontuação.  Ao final do campeonato o programa apresenta o vencedor e tabela de pontos ordenada pelo total de pontuação.
 
 Instalação
 
